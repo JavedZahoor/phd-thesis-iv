@@ -1,0 +1,2 @@
+dataset, size, method, classifier, validationTechnique, mc, timeTaken
+ A, 250, JMI, MLP, LOOCV, 0.636714539967, 0.178572177887
