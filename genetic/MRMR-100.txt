@@ -1,0 +1,3 @@
+svm.SVC
+Number of features selected: 3
+=======================
