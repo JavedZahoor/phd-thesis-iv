@@ -12,3 +12,13 @@
 5.c. ITO results https://docs.google.com/spreadsheets/d/1RpXSZb7suk6yRhnR6GsIqUzIm_97KsZ6s24U6CELWRk/edit?usp=sharing
 
 In case of any questions please feel free to get back to us.
+
+Acknowledgements:
+The following external codes/utilities have been used during our research and experimentations at one point or the other. MI and MIFS Ref 4 are being actively used but others may have been removed from the code at a later stage.
+
+Ref 1: Pairwise Distances # Authors: Vinnicyus Gracindo <vini.gracindo@gmail.com> # License: GNU GPL.
+Ref 2: PCA http://stackoverflow.com/questions/13224362/principal-component-analysis-pca-in-python
+Ref 3: Angle between two vectors #https://newtonexcelbach.wordpress.com/2014/03/01/the-angle-between-two-vectors-python-version/
+& http://stackoverflow.com/questions/2827393/angles-between-two-n-dimensional-vectors-in-python
+Ref 4: MI, JMIM and MRMR Implementation https://github.com/danielhomola/mifs and Parallelized MI/JMIM/MRMR https://github.com/danielhomola/mifs
+Ref 5: ACO based FS https://github.com/pjmattingly/ant-colony-optimization
